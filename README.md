@@ -5,6 +5,10 @@ Created: 8/18/25
 Website Outline
 ---------------
 HOMEPAGE (index.html)
+-Header Logo
+-Short Bio Excerpt
+-5 Track Music Player
+-Video Single Feature
 
 AUDIO PAGE (audio.html)
 
