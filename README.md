@@ -9,6 +9,7 @@ HOMEPAGE (index.html)
 -Short Bio Excerpt
 -5 Track Music Player
 -Video Single Feature
+-Mailing List Signup
 
 BIO PAGE (bio.html)
 
