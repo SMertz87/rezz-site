@@ -10,6 +10,8 @@ HOMEPAGE (index.html)
 -5 Track Music Player
 -Video Single Feature
 
+BIO PAGE (bio.html)
+
 AUDIO PAGE (audio.html)
 
 VIDEO PAGE (video.html)
